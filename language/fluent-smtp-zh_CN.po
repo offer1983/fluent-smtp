@@ -1,0 +1,883 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FluentSMTP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-12 14:01+0000\n"
+"PO-Revision-Date: 2022-04-04 12:49+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: fluent-smtp\n"
+
+#: app/Services/Mailer/Providers/AmazonSes/ValidatorTrait.php:20
+msgid "Access key is required."
+msgstr "访问密钥是必需的。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:397
+msgid "Actions"
+msgstr "行动"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:366
+msgid "Active Connections:"
+msgstr "活动连接："
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:419
+msgid "Active Email Connections"
+msgstr "活动电子邮件连接"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:367
+msgid "Active Senders:"
+msgstr "活跃发件人："
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:420
+msgid "Add Another Connection"
+msgstr "添加其他连接"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:426
+msgid "Add Connection"
+msgstr "添加连接"
+
+#: app/Services/Mailer/Providers/config.php:67
+msgid "Africa (Cape Town)"
+msgstr "非洲（开普敦）"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:310
+msgid "All"
+msgstr "所有"
+
+#: app/Services/Mailer/Providers/config.php:33
+msgid "Amazon SES"
+msgstr "亚马逊 SES"
+
+#: app/Services/Mailer/Providers/Postmark/ValidatorTrait.php:20
+#: app/Services/Mailer/Providers/ElasticMail/ValidatorTrait.php:20
+#: app/Services/Mailer/Providers/SparkPost/ValidatorTrait.php:20
+#: app/Services/Mailer/Providers/SendGrid/ValidatorTrait.php:20
+#: app/Services/Mailer/Providers/SendInBlue/ValidatorTrait.php:19
+#: app/Services/Mailer/Providers/PepiPost/ValidatorTrait.php:20
+#: app/Services/Mailer/Providers/TransMail/ValidatorTrait.php:19
+#: app/Services/Mailer/Providers/Mailgun/ValidatorTrait.php:19
+msgid "Api key is required."
+msgstr "Api 密钥是必需的。"
+
+#: app/Services/Mailer/Providers/Gmail/Handler.php:116
+#: app/Services/Mailer/Providers/Outlook/Handler.php:84
+msgid "Application Client Secret key is required."
+msgstr "应用程序客户端密钥是必需的。"
+
+#: app/Services/Mailer/Providers/Gmail/Handler.php:112
+#: app/Services/Mailer/Providers/Outlook/Handler.php:80
+msgid "Application Cluent ID is required."
+msgstr "应用程序线索 ID 是必需的。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:376
+msgid "Apply"
+msgstr "应用"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:358
+msgid "Are you sure to delete this?"
+msgstr "是否确实要删除此内容？"
+
+#: app/Services/Mailer/Providers/config.php:59
+msgid "Asia Pacific (Mumbai)"
+msgstr "亚太地区（孟买）"
+
+#: app/Services/Mailer/Providers/config.php:60
+msgid "Asia Pacific (Seoul)"
+msgstr "亚太地区（首尔）"
+
+#: app/Services/Mailer/Providers/config.php:61
+msgid "Asia Pacific (Singapore)"
+msgstr "亚太地区（新加坡）"
+
+#: app/Services/Mailer/Providers/config.php:62
+msgid "Asia Pacific (Sydney)"
+msgstr "亚太地区（悉尼）"
+
+#: app/Services/Mailer/Providers/config.php:63
+msgid "Asia Pacific (Tokyo)"
+msgstr "亚太地区（东京）"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:403
+msgid "Attachments"
+msgstr "附件"
+
+#: app/views/admin/digest_email.php:180
+msgid "Awesome! no failures! 🎉"
+msgstr "很棒！没有失败！🎉"
+
+#: app/Services/Mailer/Providers/config.php:66
+msgid "AWS GovCloud (US)"
+msgstr "AWS GovCloud （美国）"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:378
+msgid "Bulk Action"
+msgstr "批量操作"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:375
+msgid "By Date"
+msgstr "按日期"
+
+#: app/Services/Mailer/Providers/config.php:52
+msgid "Canada (Central)"
+msgstr "加拿大（中部）"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:356
+msgid "cancel"
+msgstr "取消"
+
+#: app/Services/Mailer/Providers/config.php:68
+msgid "China (Ningxia)"
+msgstr "中国（宁夏）"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:423
+msgid "Close"
+msgstr "关闭"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:222
+msgid "Configure FluentSMTP"
+msgstr "配置 FluentSMTP"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:357
+msgid "confirm"
+msgstr "确认"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:422
+msgid "Connection Details"
+msgstr "连接详细信息"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:416
+msgid "Credential Verification Failed. Please check your inputs"
+msgstr "凭据验证失败。请检查您的输入"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:326
+#: app/Hooks/Handlers/AdminMenuHandler.php:383
+msgid "Date"
+msgstr "日期"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:384
+msgid "Date Range"
+msgstr "日期范围"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:396
+msgid "Date-Time"
+msgstr "日期-时间"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:370
+msgid "Days"
+msgstr "日"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:440
+msgid "Default Connection"
+msgstr "默认连接"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:379
+msgid "Delete All"
+msgstr "全部删除"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:438
+msgid "Delete Logs"
+msgstr "删除日志"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:369
+msgid "Delete Logs:"
+msgstr "删除日志："
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:436
+msgid "Disable Logging for FluentCRM Emails"
+msgstr "禁用 FluentCRM 电子邮件的日志记录"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:446
+msgid "Disable sending all emails. If you enable this, no email will be sent."
+msgstr "禁用发送所有电子邮件。如果启用此功能，则不会发送电子邮件。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:355
+msgid "Docs"
+msgstr "文档"
+
+#: app/Services/Mailer/Providers/TransMail/ValidatorTrait.php:23
+#: app/Services/Mailer/Providers/Mailgun/ValidatorTrait.php:23
+msgid "Domain name is required."
+msgstr "域名是必需的。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:427
+msgid "Edit Connection"
+msgstr "编辑连接"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:432
+msgid "Email Address"
+msgstr "电邮地址"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:402
+msgid "Email Body"
+msgstr "电子邮件正文"
+
+#: app/Http/Controllers/SettingsController.php:156
+msgid "Email delivered successfully."
+msgstr "电子邮件已成功送达。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:242
+msgid "Email Disabled"
+msgstr "电子邮件已禁用"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:365
+msgid "Email Failed:"
+msgstr "电子邮件失败："
+
+#: app/Hooks/Handlers/SchedulerHandler.php:126
+msgid "Email Failures"
+msgstr "电子邮件故障"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:353
+msgid "Email Logs"
+msgstr "电子邮件日志"
+
+#: app/Http/Controllers/LoggerController.php:69
+msgid "Email sent successfully."
+msgstr "电子邮件已成功发送。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:445
+msgid "Email Simulation"
+msgstr "电子邮件模拟"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:352
+msgid "Email Test"
+msgstr "电子邮件测试"
+
+#: app/Hooks/Handlers/SchedulerHandler.php:122
+#: app/views/admin/digest_email.php:115
+msgid "Emails Sent"
+msgstr "已发送的电子邮件"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:429
+msgid "Enable Email Summary"
+msgstr "启用电子邮件摘要"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:430
+msgid "Enable Email Summary Notification"
+msgstr "启用电子邮件摘要通知"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:391
+msgid "End date"
+msgstr "结束日期"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:380
+msgid "Enter Full Screen"
+msgstr "进入全屏"
+
+#: app/Services/Mailer/Providers/config.php:56
+msgid "EU (Frankfurt)"
+msgstr "欧洲（法兰克福）"
+
+#: app/Services/Mailer/Providers/config.php:53
+msgid "EU (Ireland)"
+msgstr "欧洲（爱尔兰）"
+
+#: app/Services/Mailer/Providers/config.php:54
+msgid "EU (London)"
+msgstr "欧洲（伦敦）"
+
+#: app/Services/Mailer/Providers/config.php:57
+msgid "Europe (Milan)"
+msgstr "欧洲（米兰）"
+
+#: app/Services/Mailer/Providers/config.php:55
+msgid "Europe (Paris)"
+msgstr "欧洲（巴黎）"
+
+#: app/Services/Mailer/Providers/config.php:58
+msgid "Europe (Stockholm)"
+msgstr "欧洲（斯德哥尔摩）"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:328
+#: app/Hooks/Handlers/AdminMenuHandler.php:387
+msgid "Failed"
+msgstr "失败"
+
+#: app/views/admin/digest_email.php:165
+msgid "Failed Count"
+msgstr "失败计数"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:441
+msgid "Fallback Connection"
+msgstr "回退连接"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:443
+msgid ""
+"Fallback Connection will be used if an email is failed to send in one "
+"connection. Please select a different connection than the default connection"
+msgstr ""
+"如果一个连接中发送电子邮件失败，将使用回退连接。请选择与默认连接不同的连接"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:392
+msgid "Filter"
+msgstr "滤波器"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:381
+msgid "Filter By"
+msgstr "筛选依据"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:36
+#: app/Hooks/Handlers/AdminMenuHandler.php:280
+msgid "Fluent SMTP"
+msgstr "Fluent SMTP"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:437
+msgid "FluentCRM Email Logging"
+msgstr "FluentCRM 电子邮件日志记录"
+
+#. Name of the plugin
+msgid "FluentSMTP"
+msgstr "FluentSMTP"
+
+#. Author of the plugin
+msgid "FluentSMTP & WPManageNinja Team"
+msgstr "FluentSMTP & WPManageNinja Team"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:217
+msgid ""
+"FluentSMTP requires to configure properly. Please configure FluentSMTP to "
+"make your email delivery works."
+msgstr ""
+"FluentSMTP 需要正确配置。请配置FluentSMTP以使您的电子邮件传递正常工作。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:409
+msgid "Force From Email (Recommended Settings: Enable)"
+msgstr "强制发送邮件（推荐设置：启用）"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:413
+msgid "Force Sender Name"
+msgstr "强制发件人姓名"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:408
+msgid "From Email"
+msgstr "从电子邮件"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:412
+msgid "From Name"
+msgstr "从名称"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:424
+msgid "General Settings"
+msgstr "常规设置"
+
+#: app/Http/Controllers/SettingsController.php:106
+msgid "General Settings has been updated"
+msgstr "常规设置已更新"
+
+#: app/Services/Mailer/Providers/config.php:179
+msgid "Gmail/Google Workspace"
+msgstr "Gmail/Google Workspace"
+
+#: app/Services/Mailer/Providers/config.php:194
+msgid ""
+"Gmail/Google Workspace is not recommended for sending mass marketing emails."
+msgstr "不建议将 Gmail/Google Workspace 用于发送大规模营销电子邮件。"
+
+#: app/Http/Controllers/SettingsController.php:230
+msgid "Go to Fluent Forms Dashboard"
+msgstr "转到 Fluent Forms Dashboard"
+
+#: app/Hooks/filters.php:17
+msgid "Go to Fluent SMTP Settings page"
+msgstr "转到\"Fluent SMTP 设置\"页"
+
+#: app/Http/Controllers/SettingsController.php:234
+msgid "Go to FluentCRM Dashboard"
+msgstr "转到 FluentCRM 仪表板"
+
+#: app/Http/Controllers/SettingsController.php:238
+msgid "Go to Ninja Tables Dashboard"
+msgstr "转到忍者表格仪表板"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentsmtp.com"
+msgstr "https://fluentsmtp.com"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:410
+msgid ""
+"If checked, the From Email setting above will be used for all emails (It "
+"will check if the from email is listed to available connections)."
+msgstr ""
+"如果选中，上面的\"发件人电子邮件\"设置将用于所有电子邮件（它将检查\"发件人电"
+"子邮件\"是否列在可用连接中）。"
+
+#: app/views/admin/digest_email.php:133
+msgid "If this is unusual you should probably check if your site is broken."
+msgstr "如果这是不寻常的，你应该检查你的网站是否坏了。"
+
+#: app/Services/Mailer/ValidatorTrait.php:20
+msgid "Invalid email address."
+msgstr "无效的电子邮件地址。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:374
+msgid "Last 3 months"
+msgstr "最近 3 个月"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:304
+msgid "Last 7 days"
+msgstr "最近 7 天"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:373
+msgid "Last month"
+msgstr "上个月"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:372
+msgid "Last week"
+msgstr "上个星期"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:435
+msgid "Log All Emails for Reporting"
+msgstr "记录所有电子邮件以进行报告"
+
+#: app/views/admin/digest_email.php:131
+msgid "Looks like no email has been sent to the time period"
+msgstr "似乎没有电子邮件发送到该时间段"
+
+#: app/Services/Mailer/Providers/config.php:74
+msgid "Mailgun"
+msgstr "梅尔贡"
+
+#: app/Services/Mailer/Providers/config.php:65
+msgid "Middle East (Bahrain)"
+msgstr "中东（巴林）"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:404
+msgid "Next"
+msgstr "下一个"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:447
+msgid "No Emails will be sent from your WordPress."
+msgstr "您的WordPress不会发送任何电子邮件。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:433
+msgid "Notification Days"
+msgstr "通知天数"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:431
+msgid "Notification Email Addresses"
+msgstr "通知电子邮件地址"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:425
+msgid "Notification Settings"
+msgstr "通知设置"
+
+#: app/Services/Mailer/Providers/config.php:198
+msgid "Outlook/Office365"
+msgstr "Outlook/Office365"
+
+#: app/Services/Mailer/Providers/config.php:213
+msgid "Outlook/Office365 is not recommended for sending mass marketing emails."
+msgstr "不建议将 Outlook/Office365 用于发送大规模营销电子邮件。"
+
+#: app/Services/Mailer/Providers/config.php:133
+msgid "Pepipost"
+msgstr "Pepipost"
+
+#: app/Services/Mailer/Providers/config.php:217
+msgid "PHP Mail"
+msgstr "PHP Mail"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:444
+msgid "Please add another connection to use fallback feature"
+msgstr "请添加另一个连接以使用回退功能"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:361
+msgid "Please configure your first email service provider connection"
+msgstr "请配置您的第一个电子邮件服务提供商连接"
+
+#: app/Services/Mailer/Providers/AmazonSes/ValidatorTrait.php:28
+msgid "Please define FLUENTMAIL_AWS_ACCESS_KEY_ID in wp-config.php file."
+msgstr "请在 wp-config.php 文件中定义FLUENTMAIL_AWS_ACCESS_KEY_ID。"
+
+#: app/Services/Mailer/Providers/AmazonSes/ValidatorTrait.php:32
+msgid "Please define FLUENTMAIL_AWS_SECRET_ACCESS_KEY in wp-config.php file."
+msgstr "请在wp-config.php文件中定义FLUENTMAIL_AWS_SECRET_ACCESS_KEY。"
+
+#: app/Services/Mailer/Providers/ElasticMail/ValidatorTrait.php:24
+msgid "Please define FLUENTMAIL_ELASTICMAIL_API_KEY in wp-config.php file."
+msgstr "请在wp-config.php文件中定义FLUENTMAIL_ELASTICMAIL_API_KEY。"
+
+#: app/Services/Mailer/Providers/Gmail/Handler.php:120
+msgid "Please define FLUENTMAIL_GMAIL_CLIENT_ID in wp-config.php file."
+msgstr "请在wp-config.php文件中定义FLUENTMAIL_GMAIL_CLIENT_ID。"
+
+#: app/Services/Mailer/Providers/Gmail/Handler.php:126
+msgid "Please define FLUENTMAIL_GMAIL_CLIENT_SECRET in wp-config.php file."
+msgstr "请在wp-config.php文件中定义FLUENTMAIL_GMAIL_CLIENT_SECRET。"
+
+#: app/Services/Mailer/Providers/TransMail/ValidatorTrait.php:27
+#: app/Services/Mailer/Providers/Mailgun/ValidatorTrait.php:27
+msgid "Please define FLUENTMAIL_MAILGUN_API_KEY in wp-config.php file."
+msgstr "请在 wp-config.php 文件中定义FLUENTMAIL_MAILGUN_API_KEY。"
+
+#: app/Services/Mailer/Providers/TransMail/ValidatorTrait.php:31
+#: app/Services/Mailer/Providers/Mailgun/ValidatorTrait.php:31
+msgid "Please define FLUENTMAIL_MAILGUN_DOMAIN in wp-config.php file."
+msgstr "请在 wp-config.php 文件中定义FLUENTMAIL_MAILGUN_DOMAIN。"
+
+#: app/Services/Mailer/Providers/Outlook/Handler.php:88
+msgid "Please define FLUENTMAIL_OUTLOOK_CLIENT_ID in wp-config.php file."
+msgstr "请在wp-config.php文件中定义FLUENTMAIL_OUTLOOK_CLIENT_ID。"
+
+#: app/Services/Mailer/Providers/Outlook/Handler.php:94
+msgid "Please define FLUENTMAIL_OUTLOOK_CLIENT_SECRET in wp-config.php file."
+msgstr "请在 wp-config.php 文件中定义FLUENTMAIL_OUTLOOK_CLIENT_SECRET。"
+
+#: app/Services/Mailer/Providers/PepiPost/ValidatorTrait.php:24
+msgid "Please define FLUENTMAIL_PEPIPOST_API_KEY in wp-config.php file."
+msgstr "请在wp-config.php文件中定义FLUENTMAIL_PEPIPOST_API_KEY。"
+
+#: app/Services/Mailer/Providers/Postmark/ValidatorTrait.php:24
+msgid "Please define FLUENTMAIL_POSTMARK_API_KEY in wp-config.php file."
+msgstr "请在 wp-config.php 文件中定义FLUENTMAIL_POSTMARK_API_KEY。"
+
+#: app/Services/Mailer/Providers/SendGrid/ValidatorTrait.php:24
+msgid "Please define FLUENTMAIL_SENDGRID_API_KEY in wp-config.php file."
+msgstr "请在 wp-config.php 文件中定义FLUENTMAIL_SENDGRID_API_KEY。"
+
+#: app/Services/Mailer/Providers/SendInBlue/ValidatorTrait.php:23
+msgid "Please define FLUENTMAIL_SENDINBLUE_API_KEY in wp-config.php file."
+msgstr "请在wp-config.php文件中定义FLUENTMAIL_SENDINBLUE_API_KEY。"
+
+#: app/Services/Mailer/Providers/Smtp/ValidatorTrait.php:33
+msgid "Please define FLUENTMAIL_SMTP_PASSWORD in wp-config.php file."
+msgstr "请在wp-config.php文件中定义FLUENTMAIL_SMTP_PASSWORD。"
+
+#: app/Services/Mailer/Providers/Smtp/ValidatorTrait.php:29
+msgid "Please define FLUENTMAIL_SMTP_USERNAME in wp-config.php file."
+msgstr "请在 wp-config.php 文件中定义FLUENTMAIL_SMTP_USERNAME。"
+
+#: app/Services/Mailer/Providers/SparkPost/ValidatorTrait.php:24
+msgid "Please define FLUENTMAIL_SPARKPOST_API_KEY in wp-config.php file."
+msgstr "请在 wp-config.php 文件中定义FLUENTMAIL_SPARKPOST_API_KEY。"
+
+#: app/Services/Mailer/Providers/Gmail/Handler.php:172
+#: app/Services/Mailer/Providers/Outlook/Handler.php:131
+msgid "Please Provide Auth Token."
+msgstr "请提供身份验证令牌。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:415
+msgid "Please select your email service provider"
+msgstr "请选择您的电子邮件服务提供商"
+
+#: app/Http/Controllers/SettingsController.php:251
+msgid "Plugin has been successfully installed."
+msgstr "插件已成功安装。"
+
+#: fluent-smtp.php:62
+msgid "Possible Conflict: "
+msgstr "可能的冲突："
+
+#: app/Services/Mailer/Providers/config.php:147
+msgid "Postmark"
+msgstr "Postmark"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:405
+msgid "Prev"
+msgstr "昨日"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:421
+msgid "Provider"
+msgstr "供应商"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:363
+msgid "Quick Overview"
+msgstr "快速概述"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:399
+msgid "Resend"
+msgstr "发送"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:377
+msgid "Resend Selected Emails"
+msgstr "重新发送选定的电子邮件"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:401
+msgid "Resent Count"
+msgstr "重新发送计数"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:398
+msgid "Retry"
+msgstr "重试"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:414
+msgid "Save Connection Settings"
+msgstr "保存连接设置"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:368
+msgid "Save Email Logs:"
+msgstr "保存电子邮件日志："
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:434
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:406
+msgid "Search Results for"
+msgstr "搜索结果"
+
+#: app/Services/Mailer/Providers/AmazonSes/ValidatorTrait.php:24
+msgid "Secret key is required."
+msgstr "密钥是必需的。"
+
+#: app/Http/Controllers/Controller.php:59
+msgid "Security Failed. Please reload the page"
+msgstr "安全失败。请重新加载页面"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:385
+msgid "Select"
+msgstr "选择"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:388
+msgid "Select date"
+msgstr "选择日期"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:389
+msgid "Select date and time"
+msgstr "选择日期和时间"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:439
+msgid ""
+"Select how many days, the logs will be saved. If you select 7 days, then "
+"logs older than 7 days will be deleted automatically."
+msgstr "选择将保存日志的天数。如果选择 7 天，则超过 7 天的日志将自动删除。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:442
+msgid ""
+"Select which connection will be used for sending transactional emails from "
+"your WordPress. If you use multiple connection then email will be routed "
+"based on source from email address"
+msgstr ""
+"选择将用于从WordPress发送交易电子邮件的连接。如果您使用多个连接，则电子邮件将"
+"根据来自电子邮件地址的来源进行路由"
+
+#: app/Services/Mailer/ValidatorTrait.php:16
+msgid "Sender email is required."
+msgstr "发件人电子邮件是必需的。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:407
+msgid "Sender Settings"
+msgstr "发件人设置"
+
+#: app/Services/Mailer/Providers/config.php:91
+msgid "SendGrid"
+msgstr "发送网格"
+
+#: app/Services/Mailer/Providers/config.php:105
+msgid "Sendinblue"
+msgstr "森丁蓝"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:362
+msgid "Sending Stats"
+msgstr "发送统计数据"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:327
+msgid "Sent"
+msgstr "送"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:411
+msgid "Set the return-path to match the From Email"
+msgstr "将返回路径设置为与\"发件人电子邮件\"匹配"
+
+#: app/Hooks/filters.php:18 app/Hooks/Handlers/AdminMenuHandler.php:351
+msgid "Settings"
+msgstr "设置"
+
+#: app/Http/Controllers/SettingsController.php:129
+msgid "Settings saved successfully."
+msgstr "设置已成功保存。"
+
+#: app/Services/Mailer/Providers/config.php:9
+msgid "SMTP"
+msgstr "断续器"
+
+#: app/Services/Mailer/Providers/Smtp/ValidatorTrait.php:19
+msgid "SMTP host is required."
+msgstr "SMTP 主机是必需的。"
+
+#: app/Services/Mailer/Providers/Smtp/ValidatorTrait.php:41
+msgid "SMTP password is required."
+msgstr "SMTP 密码是必需的。"
+
+#: app/Services/Mailer/Providers/Smtp/ValidatorTrait.php:23
+msgid "SMTP port is required."
+msgstr "SMTP 端口是必需的。"
+
+#: app/Services/Mailer/Providers/Smtp/ValidatorTrait.php:37
+msgid "SMTP username is required."
+msgstr "SMTP 用户名是必需的。"
+
+#: app/Hooks/filters.php:6
+msgid "SMTP/Mail Settings"
+msgstr "SMTP/邮件设置"
+
+#: app/Http/Controllers/SettingsController.php:204
+msgid "Sorry no connection found. Please reload the page and try again"
+msgstr "很抱歉，未找到连接。请重新加载页面，然后重试"
+
+#: app/Http/Controllers/SettingsController.php:244
+msgid "Sorry, You can not install this plugin"
+msgstr "抱歉，您无法安装此插件"
+
+#: app/Services/Mailer/Providers/config.php:64
+msgid "South America (São Paulo)"
+msgstr "南美洲（圣保罗）"
+
+#: app/Services/Mailer/Providers/config.php:119
+msgid "SparkPost"
+msgstr "火花邮递"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:390
+msgid "Start date"
+msgstr "开始日期"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:382
+msgid "Status"
+msgstr "地位"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:394
+#: app/views/admin/digest_email.php:114 app/views/admin/digest_email.php:164
+msgid "Subject"
+msgstr "主题"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:371
+msgid "Subscribe To Updates"
+msgstr "订阅更新"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:386
+msgid "Successful"
+msgstr "成功的"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:354
+msgid "Support"
+msgstr "支持"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:360
+msgid ""
+"Thank you for installing FluentSMTP - The ultimate SMTP & Email Service "
+"Connection Plugin for WordPress"
+msgstr "感谢您安装FluentSMTP - WordPress的终极SMTP和电子邮件服务连接插件"
+
+#: fluent-smtp.php:55
+#, php-format
+msgid ""
+"The <strong>FluentSMTP</strong> plugin depends on\n"
+"                                <a target=\"_blank\" href=\"%1s\">wp_mail</"
+"a> pluggable function and\n"
+"                                plugin is not able to extend it. Please "
+"check if another plugin is using this and disable it for <strong>FluentSMTP</"
+"strong> to work!"
+msgstr ""
+"<strong>FluentSMTP</strong> 插件取决于\n"
+"                                <a target=\"_blank\" href=\"%1s\">wp_mail</a>"
+"可插拔函数和\n"
+"                                插件无法扩展它。请检查是否有其他插件正在使用"
+"它，并禁用它以使<strong>FluentSMTP</strong>正常工作！"
+
+#: app/Services/Mailer/Providers/config.php:228
+msgid ""
+"The Default option does not use SMTP or any Email Service Providers so it "
+"will not improve email delivery on your site."
+msgstr ""
+"\"默认\"选项不使用 SMTP 或任何电子邮件服务提供商，因此它不会改善您网站上的电"
+"子邮件传递。"
+
+#: app/Http/Controllers/SettingsController.php:145
+msgid "The email field is required."
+msgstr "电子邮件字段为必填字段。"
+
+#. Description of the plugin
+msgid "The Ultimate SMTP Connection Plugin for WordPress."
+msgstr "WordPress的终极SMTP连接插件。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:395
+msgid "To"
+msgstr "自"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:297
+msgid "Today"
+msgstr "今天"
+
+#: app/Services/Mailer/Providers/Gmail/Handler.php:293
+#: app/Services/Mailer/Providers/Outlook/Handler.php:190
+msgid "Token Validity"
+msgstr "令牌有效期"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:364
+msgid "Total Email Sent (Logged):"
+msgstr "已发送的电子邮件总数（已记录）："
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:400
+msgid "Turn On"
+msgstr "开"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:393
+msgid "Type & press enter..."
+msgstr "键入并按回车键..."
+
+#: app/Services/Mailer/Providers/config.php:48
+msgid "US East (N. Virginia)"
+msgstr "美国东部（弗吉尼亚北部）"
+
+#: app/Services/Mailer/Providers/config.php:49
+msgid "US East (Ohio)"
+msgstr "美国东部（俄亥俄州）"
+
+#: app/Services/Mailer/Providers/config.php:50
+msgid "US West (N. California)"
+msgstr "美国西部（加利福尼亚北部）"
+
+#: app/Services/Mailer/Providers/config.php:51
+msgid "US West (Oregon)"
+msgstr "美国西部（俄勒冈）"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:418
+msgid "Validating Data. Please wait"
+msgstr "验证数据。请稍候"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:343
+msgid "View All"
+msgstr "查看全部"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:359
+msgid "Welcome to FluentSMTP"
+msgstr "欢迎来到FluentSMTP"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:417
+msgid ""
+"When checked, the From Name setting above will be used for all emails, "
+"ignoring values set by other plugins."
+msgstr ""
+"选中后，上面的\"发件人姓名\"设置将用于所有电子邮件，忽略其他插件设置的值。"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:210
+#, php-format
+msgid ""
+"WordPress version 5.5 or greater is required for FluentSMTP. You are using "
+"version %s currently. Please update your WordPress Core to use FluentSMTP "
+"Plugin."
+msgstr ""
+"WordPress版本5.5或更高版本是FluentSMTP所必需的。您当前使用的是版本 %s。请更新"
+"您的WordPress Core以使用FluentSMTP插件。"
+
+#: app/Http/Controllers/Controller.php:51
+msgid "You do not have permission to do this action"
+msgstr "您没有执行此操作的权限"
+
+#: app/views/admin/digest_email.php:182
+msgid "Your email sending health is perfect"
+msgstr "您的电子邮件发送现在很好"
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:428
+msgid ""
+"Your emails will be routed automatically based on From email address. No "
+"additional configuration is required."
+msgstr "您的电子邮件将根据发件人电子邮件地址自动路由。无需其他配置。"
